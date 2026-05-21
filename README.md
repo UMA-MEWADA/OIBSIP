@@ -111,9 +111,9 @@ OnlineReservationSystem/
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-OIBSIP Internship — Java Programming Track  
-GitHub Repository: [OIBSIP](https://github.com/YourUsername/OIBSIP)
+**Uma mewada**  
+OIBSIP Internship — Java Programming Track
+GitHub: https://github.com/UMA-MEWADA/OIBSIP
 
 ---
 
